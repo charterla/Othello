@@ -1,2 +1,2 @@
-# Tic-Tac-Toe
-Tic-Tac-Toe by C++
+# Othello
+Othello by C++
